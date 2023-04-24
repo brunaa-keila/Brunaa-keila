@@ -1,8 +1,6 @@
 ### Olá, Eu sou a Bruna Keila! 👋
 
 
-- 🔭 Hoje trabalho com Java  ...
-- 🌱 Estudando Java, JavaScript, e Flutter ...
 ##
 
 <div align="center">
