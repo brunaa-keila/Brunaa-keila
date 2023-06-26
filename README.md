@@ -1,4 +1,6 @@
+<div align="center">
 ## Oiii eu sou a Bruna Keila, Programadora e fã da tecnologia!
+</div>
 <div align="center">
   <a href="https://github.com/brunaa-keila">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunaa-keila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
