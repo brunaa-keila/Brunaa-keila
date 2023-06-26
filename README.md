@@ -1,5 +1,5 @@
 <div align="center">
-## Oiii eu sou a Bruna Keila, Programadora e fã da tecnologia!
+<h1>## Oiii eu sou a Bruna Keila, Programadora e fã da tecnologia!</h1>
 </div>
 <div align="center">
   <a href="https://github.com/brunaa-keila">
